@@ -49,3 +49,6 @@ a {
 .footer a:hover {
     color: whitesmoke;
 }
+.link { 
+font-size: 17px; text-decoration: none; 
+}
